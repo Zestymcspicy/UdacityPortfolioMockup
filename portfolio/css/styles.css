@@ -1,9 +1,6 @@
 body{
   max-height: 900px;
 }
-/* html{
-  background: linear-gradient(to right, #05ff11, #d567);
-  width: auto; */
 
 section{
   box-sizing:border-box;
