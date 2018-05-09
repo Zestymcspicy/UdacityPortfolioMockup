@@ -1,6 +1,9 @@
 body{
   max-height: 900px;
 }
+/* html{
+  background: linear-gradient(to right, #05ff11, #d567);
+  width: auto; */
 
 section{
   box-sizing:border-box;
@@ -34,7 +37,7 @@ section{
 
 }
 .top{
-  background-color: #473623;
+  background-color: #800000;
 }
 .middle{
   background-color: #f3a4f7;
@@ -94,9 +97,10 @@ header{
   display:flex;
   flex-wrap: wrap;
 }
-.footer_box span{
+.footer_box span, a{
   font-family: "Skranji",cursive;
   width:75%;
+  text-align: center;
 }
 
 .footer_box img{
@@ -105,4 +109,8 @@ header{
 }
 .center img{
   width: 60%;
+  margin-left: 10%;
+}
+a {
+  padding: 15px;
 }
