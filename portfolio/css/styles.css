@@ -4,7 +4,7 @@ body{
 /* html{
   background: linear-gradient(to right, #05ff11, #d567);
   width: auto; */
-}
+
 section{
   box-sizing:border-box;
 }
@@ -73,10 +73,10 @@ header{
 }
 .main_content {
   width: 75%;
-  max-width: 80%%;
-  height:60%;
+  max-width: 80%;
+  height: 60%;
 }
-.main_image{
+.main_image {
   width: 90%;
   margin: 7%;
   max-height: 600px;
